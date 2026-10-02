@@ -1,0 +1,44 @@
+[
+    {
+        "name": "tifin",
+        "amount": 20.0,
+        "time": "13:21:06",
+        "category": "FOOD",
+        "date": "01/10/2026"
+    },
+    {
+        "name": "lunch",
+        "amount": 20.0,
+        "time": "13:21:26",
+        "category": "FOOD",
+        "date": "01/10/2026"
+    },
+    {
+        "name": "snacks",
+        "amount": 30.0,
+        "time": "13:22:01",
+        "category": "FOOD",
+        "date": "01/10/2026"
+    },
+    {
+        "name": "Vegetables Shopping ",
+        "amount": 100.0,
+        "time": "15:13:07",
+        "category": "SHOPPING",
+        "date": "01/10/2026"
+    },
+    {
+        "name": "Went to Lunch ",
+        "amount": 500.0,
+        "time": "16:33:13",
+        "category": "TRAVEL",
+        "date": "01/10/2026"
+    },
+    {
+        "name": "Went to Exhibition",
+        "amount": 200.0,
+        "time": "17:21:17",
+        "category": "OTHERS",
+        "date": "01/10/2026"
+    }
+]
